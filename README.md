@@ -80,27 +80,27 @@ The image was output to the specified resource group.
 - Inbound does not allow communication except on port 80. (NSG)　　
 
 
-#### Run
-- init 
+#### Run  
+- init  
 ![](picture/2021-01-18-23-24-52.png)
-- plan
+- plan  
 ![](picture/2021-01-18-23-23-53.png)
-- apply
+- apply  
 ![](picture/2021-01-18-23-27-15.png)
 ![](picture/2021-01-18-23-28-02.png)
 ![](picture/2021-01-18-23-30-57.png)
 
 
 ### Output
-- public loadbalancer
+- public loadbalancer  
 ![](picture/2021-01-18-14-26-19.png)
-- topology by network watcher
+- topology by network watcher  
 ![](picture/2021-01-18-14-29-05.png) 
 - all resource defiend by terraform 
 ![](picture/2021-01-16-21-37-01.png)
-- All virtual machines are tagged with the project name.
+- All virtual machines are tagged with the project name.  
 ![](picture/2021-01-18-23-33-49.png)
 
-- The network security group explicitly denies inbound traffic from the internet except port 80 
+- The network security group explicitly denies inbound traffic from the internet except port 80   
 ![](picture/2021-01-18-23-32-52.png)
 
