@@ -81,7 +81,6 @@ The image was output to the specified resource group.
 
 
 #### Run
-
 - init 
 ![](picture/2021-01-18-23-24-52.png)
 - plan
